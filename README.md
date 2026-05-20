@@ -1,0 +1,1 @@
+[![CI - Lint and Test](https://github.com/AlexVille787/tests-pure-functions-/actions/workflows/.appveyor.yml/badge.svg)](https://github.com/AlexVille787/tests-pure-functions-/actions/workflows/.appveyor.yml)
